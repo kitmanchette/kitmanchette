@@ -1,4 +1,6 @@
 ## Hi there 👋
+#Highly skilled engineer proficient in data science, analytics, and materials engineering, leveraging expertise to enhance product reliability, manufacturing, and operations.
+
 
 <!--
 **kitmanchette/kitmanchette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
