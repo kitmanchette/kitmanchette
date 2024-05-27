@@ -1,5 +1,5 @@
 ## Hi there 👋
-#Highly skilled engineer proficient in data science, analytics, and materials engineering, leveraging expertise to enhance product reliability, manufacturing, and operations.
+Highly skilled engineer proficient in data science, analytics, and materials engineering, leveraging expertise to enhance product reliability, manufacturing, and operations.
 
 
 <!--
