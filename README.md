@@ -1,5 +1,21 @@
-## Hi there 👋
-Highly skilled engineer proficient in data science, analytics, and materials engineering, leveraging expertise to enhance product reliability, manufacturing, and operations.
+## Kit Manchette
+### Highly skilled engineer proficient in data science, analytics, and materials engineering, leveraging expertise to enhance product reliability, manufacturing, and operations.
+
+Hello! Thank you for viewing my portfolio. 
+
+Please find within...
+- Personal projects
+- Learning excercises
+
+Please do not hesitate to reach out if you have questions, would like to get in touch for career opportunities, or if you just want to chat!
+
+You can reach me via:
+- *Cell*: 980 230 2424
+- *Email*: kit.manchette@gmail.com
+- *LinkedIn*: linkedin.com/in/kitmanchette
+
+
+
 
 
 <!--
